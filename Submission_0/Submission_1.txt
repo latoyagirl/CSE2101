@@ -1,0 +1,124 @@
+Submission 1: Project Plan
+Introduction
+The project proposes a School Management System (SMS) designed around a centralized
+database connecting public schools across Guyana. The database will allow for electronic
+collection, modification, sharing and storage of school records that are typically managed
+through manual record keeping. These include (but are not limited to) attendance of both
+students and staff, classroom records, students’ academic records, management and
+organizational records, curriculum schemes etc. Moreover, public schools regularly share
+records (such as weekly SBA reports and student registration for CSEC) with the Ministry of
+Education (MOE) or its subsidiaries. This usually becomes increasing tedious as multiple copies
+of the same documents are often recreated, updated and compiled to be shared. The SMS
+would allow real-time storing and updates to such documents as well as give viewing rights to
+corresponding staff at the Ministry, thereby eliminating the need to send information between
+parties.
+Objectives
+A system will be designed and developed which allows for more efficient storing and updating of
+school records such as teacher and student attendance and bio data, records of work,
+academic achievements, organizational records, etc. It would allow for sharing of special
+documents between schools and the Ministry of Education. It would facilitate authorized sharing
+of common records between schools (e.g., teaching schemes or subject curriculums). It would
+employ restrictions that monitor who, and to what extent can parties access records within the
+system.
+Constraints
+The SMS would first be developed on a small scale at a ‘pilot’ school in region four by a group
+of Computer Science -professionals (hereon after referred to as the Team). The project shall be
+completed in planned phases which are to be approved before proceeding phases are to be
+started. This allows for a smooth waterfall approach in ensuring that there are no malfunctions,
+set-backs, or technical issues with the final product. Because of its waterfall approach, the
+following expectations are put forward and may pose as constraints if not properly fulfilled:
+● The Ministry of Education, the Regional Education Office (RedO), the school and its staff,
+and all other stakeholders who would utilize the developed system shall be consulted by the
+Team regarding the specifications of the information system, the needs of all stakeholders
+involved and the expected administrative roles to be implemented within the system. Failure
+to completely provide such info, or any ambiguity within its definition, could result in the
+need for constant changes in development which is not ideal for the specified approach.
+
+● A timeline will drafted based of certain deciding factors such as:
+
+- The estimated time it would take to convert and store sufficient school records into the
+test database, and, the ready availability of these records as they become needed by the
+team.
+- What technological resources are available to the team at the pilot school. Would they
+need to transport, setup or purchase equipment?
+- Whether there is an allocated space where the team can work on site or whether they
+would need to either work remotely, or regularly travel to and from the school.
+- Is there an existing IT department at the school and, what time, resources or information
+can they provide to the team to facilitate smooth development and implementation.
+
+Any of the above can affect or hinder the timeline of the project and would be sufficiently
+discussed and explored before setting time constraints on the project development.
+● Provided that a workable timeline is set, only then can budgeting consultation accurately
+reflect the required funding needs of the project such as: fair compensation for the expected
+efforts of the Team selection of the most affordable partners for expenses and costs to be
+incurred by the project. Budgeting discussions will also be aided by software applications
+specifically designed for budgeting to prevent losses, over-expenditure or inefficient resource
+allocation.
+
+The computer science experts undertaking this project shall consult relevant and valid
+literatures, dealing with the designing of similar information systems for education sectors of
+other countries to have an ideal approach and perhaps consider configuration and integrating
+possible recommendations. This research shall also be vital in deciding which methodology for
+designing the information system is the best.
+Project Organization
+Development of the SMS would require a team of eight and at least two liaisons; one from the
+local Region Education Office (RedO), and one form central Ministry. The liaisons would
+facilitate communication between the Team and MOE, and relay information progress reports
+and the particulars required to grant them access to the system.
+The initial timeline planning shall be done using a software application, which allows the tracking
+of deadlines, upcoming projects, time duration and milestones achieved within the allocated
+time taken to complete the project.
+The team of computer science experts responsible for the actualization of the project shall be
+divided into subgroups responsible for specific aspects of organization as described below:
+o Planning and Scheduling Committee- creating realistic plans and schedule for
+the project completion in a timely manner
+o Software Design committee- designing a working simple, user-friendly software
+system with the necessary functionalities as specified for the information system
+
+o Research committee- researching the latest literature and inventions done similar
+to the project being undertaken and emulating positive recommendations and
+effective methods for completing the project
+o Public relations and Project Promotion team – consulting with stakeholders,
+promoting the importance of the information system, offering guidance on its
+purpose and usage
+o Budgeting and Financing Team – sourcing funds and brainstorming the best
+methods of properly managing the said funds in expending for the project’s costs.
+o Project management team – to manage all other committees listed above and
+ensuring that the project is completing milestones as specified by the schedule.
+
+Risk Analysis
+Possible Project Risks:
+1. A possible malfunction in software storing thousands of unique personalized records and
+linking them back to a specific student or teacher’s ID
+2. A high cost/ budget in funding for the hardware as well as for the designing and of the
+information system and unexpected financial loss due to possible loss or unavailable
+suppliers
+3. Damage to property due to fire, electrical outages, electrical accidents, server damages,
+4. The risk of malware, cybersecurity breaches affecting the system’s software, data
+integrity compromise to system from hackers
+5. Operational mishaps and low performance within teams
+Risk reduction Strategies
+1. Preparing weekly Checklists and working towards completing items on the list
+2. Assumption Risk analysis- anticipating possible risks occurring and facilitating essential
+solutions for them in a proactive manner
+3. Regular team meetings – to discuss challenges, short comings, motivating team
+members, discussing setbacks, and celebrating milestones
+4. Allocated time for review and maintenance of systems
+5. Ensuring regular checkups and back up systems are in place for computer systems, and
+electrical power sources for work pace and establishing and monitoring software/
+database securities for any software threats and cybersecurity issues.
+Hardware and software resource requirements - This specifies the hardware and support
+software required to carry out the development.
+Hardware and Software Requirements
+Hardware Requirements:
+Supporting Software systems required:
+
+Work Breakdown- Work breakdown - This sets out the breakdown of the project into activities
+and identifies the milestones and deliverables associated with each activity. Milestones are key
+stages in the project where progress can be assessed; deliverables are work products that are
+delivered to the customer.
+
+Project Schedule
+Project schedule - This shows the dependencies between activities, the estimated time required
+to reach each milestone, and the allocation of people to activities. You are required to present
+the schedule using a Gantt chart.
