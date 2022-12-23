@@ -12,6 +12,7 @@ locations via electronic data transfer. The LIMS project will also enjoy the add
 adding functionality based on modernized technology. This expected effort is to reduce the 
 maintenance requirement for IT resources. (Sigma Labs has opted for this software company to 
 handle maintenance of the system after implementation).
+
 Objectives
 This project plan will contain all of the information about the development plan and the 
 development cycle. It will designate each member roles and responsibilities in terms of 
