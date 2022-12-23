@@ -1,0 +1,22 @@
+INTRODUCTION
+This document serves as the project plan for the Laboratory Information Management System 
+(LIMS) software development effort for ‘Sigma Labs & Medical Supplies’. Sigma Labs has been 
+operating using a paper-based system for records. This project has been initiated to replace the 
+current form of record keeping method with an information system that is integrated into upto-date data interoperability efforts, efficient and secure in order to better aid Sigma Labs’ 
+mission.
+The paper-based recording process is inept and tedious when it comes to receiving, tracking, 
+reporting test results, and billing. This has greatly impacted the amount of time Sigma Labs has 
+to service customers during the day and has, seemingly, caused prolonged workflow. The LIMS 
+project will implement the ability to report testing results and easily share information between 
+locations via electronic data transfer. The LIMS project will also enjoy the additional benefit of 
+adding functionality based on modernized technology. This expected effort is to reduce the 
+maintenance requirement for IT resources. (Sigma Labs has opted for this software company to 
+handle maintenance of the system after implementation).
+Objectives
+This project plan will contain all of the information about the development plan and the 
+development cycle. It will designate each member roles and responsibilities in terms of 
+development as well as how and what methods they will utilize to accomplish their tasks. It will 
+also set timelines to ensure that the project is completed on schedule. It will adhere to the 
+standards stated in the most recent version of the SRS signed by the customer. The UI design 
+will be included in the initial prototype. It will be able to show client prompted login, browse 
+between different pages, contain the client's logo, and the remaining texts.
