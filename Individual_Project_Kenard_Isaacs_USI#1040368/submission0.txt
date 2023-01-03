@@ -1,0 +1,24 @@
+"Organization:  Sigma Laboratories
+Relationship to the organization: Former Quality Manager and friends with the current Laboratory Manager                                                                                                                                                                                                   Person Associated : Denita Gillis                                                                                                                                                                                                                                                     Aim: To create a Laboratory Information System capable of collecting storing and retrieving patient data. This system will replace the current paper base system and ensure that patient results are not misplaced and or damaged and will be linked across all of Sigma branches  
+Problem and Proposal :
+In Guyana a wide range of health and health care entities collect data, however, this data doesn't flow through any process or flow amongst entities in a cohesive or standardized way. 
+Data processing is essential in decision-making processes and assessing health service quality. 
+The management of health systems requires mechanisms capable of dealing with administrative aspects that represent the conditions of the organization and the functioning of the various levels that make up health services. 
+Sigma Laboratories, a small laboratory with two branches, one located in Georgetown and the other in Essequibo lacks a Lab information system(LIS). 
+Currently, for both locations, all patient records, administrative records, quality records, and billing records are documented and stored using log books. 
+We propose an integrated LIS that is able to handle all aspects of the Lab. this includes the pre-analytical phase ( administrative, patient information) to the post-analytical phase( patient results).
+In the pre-analytical phase, the proposed LIS will have two stations.
+
+The first station will allow authorized administrative staff to collect patient demographic, clinical history, referring doctors, test requests and print a unique bill.
+This information will then be available at station 2 (phlebotomist station). The phlebotomist will be able to access and retrieve this patient information using a unique identifier(Accession number), patient name, or date of birth.
+From here the phlebotomist is able to collect the sample print a label with all the relevant information and send it to the lab technicians. 
+In the pre and post-analytical phase, The lab technicians will be able to see which samples have been collected or not collected, the various test for each patient sample, enter the test results, and print the test results. 
+"
+
+
+
+
+
+
+
+
