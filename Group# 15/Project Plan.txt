@@ -1,1 +1,53 @@
+Organization: The Guyana Police Force
 
+
+Project Idea: A Management Information System that will replace the current paper-based
+system used by the Criminal Records Office to issue Certificates of Character.
+The Guyana Police Force is a crime-fighting organization that deals with numerous aspects of
+security to ensure social trust and create a safe environment for the citizens of Guyana. The
+Criminal Records Office (CRO) accepts and processes all requests for the Certificate of
+Character, commonly known as the Police Clearance or a Good Conduct Certificate. The
+Certificate of Character facilitates travel and job employment requirements after conducting
+background checks, stating whether or not the applicant has a criminal record of previous
+convictions in Guyana.
+
+
+Problem Overview
+The applying, processing and issuing of a Certificate of Character in its current state, is
+inefficient, time-consuming and paper-based. The following are the key issues identified that the
+organization wants to address by using technology:
+
+1. Applicants are required to visit the Criminal Records Office (CRO) when submitting their
+application and retrieving a certificate, this often results in long lines, waiting times and people
+frustrated with the process.
+
+2. Issuing a Certificate of Character involves the department cross-checking an applicant's
+criminal history; this is done by having an officer manually review records in a paper logbook.
+This part of the process is time-consuming, prone to human error and sometimes not correct.
+
+3. As the records are paper based, it’s a time-consuming effort to generate useful reports
+from the data captured to aid with decision-making, additionally, there is a constant risk of
+records being misplaced and lost should an incident such as a fire occur.
+
+
+The proposed digital Management Information System aims to address the issues identified
+above as follows:
+
+1. Make the process convenient and accessible for persons, by eliminating the existing need
+for the applicant to visit the Criminal Records Office (CRO) when submitting their application
+and retrieving a certificate.
+
+2. Significantly reduce the time it takes to cross-check the criminal records of an applicant. To
+achieve this all documentation would be stored and processed digitally from the application stage
+to the output of the Certificate of Character. The information system will be able to automatically
+determine if an applicant has a criminal record.
+
+3. The Information System will allow the generation of reports that can be used in the
+decision-making processes.
+
+
+Relationship to Organization:
+A member of the group is employed with the Guyana Police Force and the majority of the group
+members are familiar with the process of applying for and obtaining a Certificate of Character.
+As a group, we are interested in improving the system for the officers issuing the certificate and
+the applicants.
