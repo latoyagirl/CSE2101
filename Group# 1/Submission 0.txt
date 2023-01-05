@@ -1,0 +1,18 @@
+SE2101 Software Engineering - Semester Project
+Organization: Ministry of Education: Secondary Education 
+Problem: Schools in Guyana (and by extention the educationn sector) are still making use of manual record keeping. 
+This makes it extremely difficult to store, retrieve, share and have effective coordination and information distribution. 
+
+Aim: To create and develop an information system which allows for storing and sharing of school records such as teacher and student attendance and bio information, 
+teaching schemes, academic achievements, organisational records etc. 
+
+Overview
+As concerned citizens and former students of the public education system, it is very often It is observed that public schools in Guyana, especially secondary schools, 
+rely solely on physical registers to document students’ attendance,punctuality and academic advancement. This way, it is very easy for attendance and academic advancement
+not  to be taken due to a class teacher's absence for example. More so, there is a wide range of flexibility when Assessing punctuality and academic advancements for 
+nearly 30 students in a classroom, for example. 
+By creating a digital database system, students' attendance punctuality and academic advancement could be manually recorded by assigning an identification card or a 
+unique pin code to enter into the data collecting hardware or even a biometric system setup upon arriving at school. The system would also record the students time of 
+arrival, to later compute the students overall punctuality and grades attained. At the end of a set period example, weekly, monthly or termly, the students' attendance,
+punctuality and academic advancement could be assessed by authorities or even parents  in the school for necessary reward or discipline actions. 
+This database system would also facilitate easy access to relavant records by the ministry of education on termly and annual basis for school and teacher assessments. 
