@@ -1,0 +1,401 @@
+FACULTY OF NATURAL SCIENCE: COMPUTER SCIENCE
+
+CSE2101: SOFTWARE ENGINEERING
+Submission One (1): Project Plan
+
+Group Members:
+
+Cassie Beaton USI-1031329
+Dyanand Ghandatt USI-1039260
+Joshua McDonald USI-1040335
+Teddy Young
+Vickash Singh USI- 1040248
+Dominic Ross
+
+Introduction
+The project proposes a School record-Management System (SMS) designed around a centralized database
+connecting public schools across Guyana. The database would allow for electronic collection, modification,
+sharing and storage of school records that are typically managed through manual record keeping. These
+include (but are not limited to) attendance of both students and staff, classroom records, students’ academic
+records, management and organizational records, curriculum schemes etc. Moreover, public schools
+regularly share records (such as weekly SBA reports and student registration for CSEC) with the Ministry
+of Education (MOE) or its subsidiaries. This usually becomes increasing tedious as multiple copies of the
+same documents are often recreated, updated and compiled to be shared. The SMS would allow real-time
+storing and updates to such documents as well as give viewing rights to corresponding staff at the Ministry,
+thereby eliminating the need to send information between parties.
+Objectives
+A system will be designed and developed which allows for more efficient storing and updating of school
+records such as teacher and student attendance and bio data, records of work, academic achievements,
+organizational records, etc. It would allow for sharing of special documents between schools and the
+Ministry of Education. It would facilitate authorized sharing of common records between schools (e.g.,
+teaching schemes or subject curriculums). It would employ restrictions that monitor who, and to what extent
+can parties access records within the system.
+Constraints
+The SMS would first be developed on a small scale at a ‘pilot’ school in region four by a group of Computer
+Science -professionals (hereon after referred to as “the Team”). The project shall be completed in planned
+phases which are to be approved before proceeding phases are to be started. This allows for a smooth
+waterfall approach in ensuring that there are no malfunctions, set-backs, or technical issues with the final
+product. Because of its waterfall approach, the following expectations are put forward and may pose as
+constraints if not properly fulfilled:
+• The ministry of Education, the Regional Education Office (RedO), the school and its staff, and all other
+stakeholders who would utilize the developed system shall be consulted by the Team regarding the
+specifications of the information system, the needs of all stakeholders involved and the expected
+administrative roles to be implemented within the system. Failure to completely provide such info, or
+any ambiguity within its definition, could result in the need for constant changes in development which
+is not ideal for the specified approach.
+• A timeline will be drafted based of certain deciding factors such as:
+- The estimated time it would take to convert and store sufficient school records into the test database,
+and, the ready availability of these records as they become needed by the team.
+- What technological resources are available to the team at the pilot school. Would they need to
+transport, setup or purchase equipment?
+- Whether there is an allocated space where the team can work on site or whether they would need
+to either work remotely, or regularly travel to and from the school.
+
+- Is there an existing IT department at the school and, what time, resources or information can they
+provide to the team to facilitate smooth development and implementation.
+
+Any of the above can affect or hinder the timeline of the project and would be sufficiently discussed
+and explored before setting time constraints on the project development.
+• Provided that a workable timeline is set, only then can budgeting consultation accurately reflect the
+required funding needs of the project such as: fair compensation for the expected efforts of the Team
+and selection of the most affordable partners for expenses and costs to be incurred by the project.
+Budgeting discussions will also be aided by software applications specifically designed for budgeting to
+prevent losses, over-expenditure or inefficient resource allocation.
+The computer science experts undertaking this project shall consult relevant and valid literatures, dealing
+with the designing of similar information systems for education sectors of other countries to have an ideal
+approach and perhaps consider configurating and integrating possible recommendations. This research shall
+also be vital in deciding which methodology for designing the information system is the best.
+Project Organization
+Development of the SMS would require a team of eight and at least two liaisons; one from the local Region
+Education Office (RedO), and one form central Ministry. The liaisons would facilitate communication
+between the Team and MOE, and relay information progress reports and the particulars required to grant
+them access to the system.
+The initial timeline planning shall be done using a software application, which allows the tracking of
+deadlines, upcoming projects, time duration and milestones achieved within the allocated time taken to
+complete the project.
+The team of computer science experts responsible for the actualization of the project shall be divided into
+subgroups responsible for specific aspects of organization as described below:
+
+o Planning and Scheduling Committee- creating realistic plans and schedule for the project
+completion in a timely manner
+o Software Design committee- designing a working simple, user-friendly software system
+with the necessary functionalities as specified for the information system
+o Research committee- researching the latest literature and inventions done similar to the
+project being undertaken and emulating positive recommendations and effective methods
+for completing the project
+o Public relations and Project Promotion team – consulting with stakeholders, promoting the
+importance of the information system, offering guidance on its purpose and usage
+o Budgeting and Financing Team – sourcing funds and brainstorming the best methods of
+properly managing the said funds in expending for the project’s costs. o Project
+management team – to manage all other committees listed above and ensuring that the
+project is completing milestones as specified by the schedule.
+
+Risk Analysis
+Possible Project Risks:
+1. A possible malfunction/bug in software storing thousands of unique personalized records and
+linking them back to specific users of the system, could result in loss or corruption of sensitive
+information
+2. Uncontrollable events such as electrical outages, electrical accidents, fire etc. can render the system
+inaccessible for a period of time which would be a great inconvenience
+3. Negligence on behalf of the system users (for e.g., a teacher leaving their account logged in on a
+public device) can result in unauthorized access to organizational records, malicious tampering,
+distribution or destruction of said records etc.
+4. One of the highlights of the system is to make it possible for class masters/mistresses and
+administrators to automatically generated their respective reports at the end of the semester without
+having to wait on subject teachers’ calculations. However, if a subject teacher does not enter a grade
+for a student at all into the system, the system would still be on hold, or produce inaccurate
+information in the generated reports.
+5. Record keeping in schools across Guyana have been paper based for years. Even with computers
+and other technology present within these very organizations, the extent to which they are utilized
+is very limited and mostly due to lack of knowledge about the possibilities that exist, or
+unwillingness to accept change. Teachers (and especially the older generation of teachers) are set
+in their ways and do not want to ‘re-learn’ how to operate and utilize modern technology. Because
+of this, the software may be rejected by a large portion of teachers who may find it difficult to
+navigate the technology.
+6. Operational mishaps and low performance within teams can result in failing to meet deadlines, and
+lead to the team producing a rushed or mediocre product. This would then improve the probability
+of the stated risks. E.g., a rushed system with poor integrity features or one that lacked rigorous
+testing, is more susceptible to security breaches, poor functionality, data loss/corruption etc.
+And contingency plans are in place should such issues arise
+
+Risk reduction Strategies
+1. Software will go through rigorous testing and functional analysis by both Team members as well
+as intended users before deployment. The software will also be open source to allow the community
+of hackers to find and fix weak points within the system. Continued system updates will also be
+offered throughout the lifetime of the software to unsure that the system is always secure against
+arising threats.
+2. While we can prevent the software threats, one cannot foresee nor control threats such as electrical
+mishaps or natural disasters. The system will however prepare for such events by creating regular
+(and multiple) backups and recovery points. This will be done automatically by computers that will
+be given access to the SMS for this very purpose. These backups and recovery files will be
+fragmented, encrypted and distributed to ensure maximum security and that damage to a backup
+
+system would not affect the backed-up files. The process will be executed automatically as a
+background process not requiring human intervention.
+3. To address the issue of negligence, the system would employ strict security mechanisms and access
+control features that cater for human error. For example, users will be automatically logged out of
+the system after 3-5 minutes of inactivity, once the application is closed, there is a power outage
+etc. It would not allow a user to log in from more than one device at a time and would prompt users
+if they are currently logged in on some other device (with the option to launch a report if they did
+not initiate the login). These and other features would be employed to reduce the risks associated
+with human error.
+4. The system will require teachers to enter grades at regular intervals throughout the semester
+(determined by the schedule of activities of each term. i.e., dates for mid-term exams, assignment
+deadlines etc.). The system would also flag a teacher who fails to meet these deadlines to encourage
+diligence in data entry. Should a teacher still fail to enter a grade for one or more assessments by
+the deadline set for submissions from subject teachers, the system would automatically adjust a
+student’s possible score to reflect a correct grade. (An example of this can be found in the appendix
+and the end of this document)
+5. The system will be released in sections and be tested by its users not only for functionality but
+usability. It will cater to the needs and critique of the teachers that will be using it to make it as
+user-friendly as possible. Further, demo videos and an illustrative instructional pdf will be sent to
+new users’ email upon first registration into the SMS. The interface will also have a closable side
+panel that outlines the step by step to the performing various tasks within the system.1
+6. Strict action plans will be drafted and enforced to ensure equitable work distribution and workable
+deadlines. Weekly checklists will be used to ensure the project is developing at a desired pace. The
+Team will engage in regular meetings that address challenges, short comings and possible setbacks,
+before they happen and prepare contingency plans for scenarios where uncontrollable
+circumstances may arise (such as a team member falling ill). The Team will also
+
+1 As a visual aid, think about the task pane option that opens when you use the Microsoft word mail merge wizard. A similar pane will be optionable
+(can be opened or closed by the user) to guide novel users through the steps of certain transactions within the SMS)
+
+Hardware and Software Requirements
+Hardware Requirements: For the immediate system implementation, no special hardware requirements are
+foreseen. The team would require systems running on a modern OS with at least 8GB RAM capacity to
+facilitate programming and networking software to be utilized. For future developments, the system will
+be expanded to allow for staff and students to record arrival at school through a scan-in system. This future
+feature would eventually require hardware that scans ID cards of staff and students. This is however not an
+immediate hardware requirement of the pilot project.
+Supporting Software systems required: The system is to be developed using the Python programming
+language with Tkinter as the front-end interface. It will utilize a standard relational database management
+software and language such as MySQL to meet the database challenges of the project. The networking
+aspect will integrate a cross-platform server software such as XAMPP or WAMPP that would help the team
+developers to create and test the program and database on a PHP webserver. Since the database is intended
+to be integrated and remotely accessed, these programs would help developers to see practical examples of
+how the developed system would function with server specifications and access protocols.
+
+
+Work Breakdown
+Milestone Deliverable Intended Outcome
+Phase One: A
+conceptual design is
+created
+
+Database and System design:
+after completion of the
+project specification
+document, the team will
+provide a detailed design
+model of the system,
+
+including ER diagrams, Use-
+Case diagrams etc., that
+
+outline the operational
+components and process of
+the SMS.
+
+The design should give stakeholders a
+conceptual understanding of how the
+system would look, how the information
+would be accessed and shared, as well as
+outline the solutions to the requirements
+proposed by each involved party. This
+
+would then allow stakeholders to re-
+define any existing needs (or highlight
+
+any new requirements of the system) that
+would affect the design model before the
+Team moves forward.
+
+Phase two: An electronic
+database is created
+
+Existing manual records form
+the school will be converted
+into a softcopy database. The
+database will allow for
+electronic access, addition
+and modification of records
+in the database.
+
+The electronic database is intended to
+show the ease with which record
+keeping/sharing can be done and solidify
+the efficiency and need for the project. It
+would also give the school an opportunity
+to see the relation between entities within
+the system and highlight where there may
+be a need to form or modify existing
+relationships, add files to the database etc.
+
+Phase three: Sever
+development and remote
+access
+
+The database will be hosted
+on a server and the outlined
+software systems will be
+integrated to allow
+MOE and RedO to remotely
+access the database.
+
+Stakeholders can view in actuality, the
+functioning system and how it allows
+remote access and efficient information
+distribution.
+
+Phase four:
+Implementation of frontend
+interface
+
+The software interface of the
+system is developed using
+Python with Tkinter. The
+software will allocate IDs to
+administrative staff and
+teachers of the school
+
+Stakeholders would now be able to access
+the database by simply logging onto the
+developed interface with test credentials.
+
+as well as members of the
+MOE and RedO. It will
+employ access control
+restrictions that monitors and
+controls the extent of access
+given to persons using the
+system.
+
+Phase five: System Testing
+Deploy and Testing (Dummy)
+
+After internal testing by the
+Team, the SMS system is
+implemented unto PCs at the
+pilot school and RedO. Staff
+members are asked to utilize
+the system with test data and
+a vigorous workload over a
+period of one week.
+
+The Team gets a view of the system in the
+real-world scenario for which It was
+developed. They can then assess its
+effectiveness, functionality, acceptability,
+ease of use etc. and pinpoint any
+oversights or room for improvement.
+
+Phase six: Full
+Deployment
+
+The complete SMS is
+deployed on systems at the
+school, RedO and MOE.
+
+A satisfactory product is delivered and
+accepted.
+
+Maintenance and expansion - Regular updates to the system will be
+released to cater for newly arising security
+threats. This requires a team of
+programmers that will maintain the
+system. Additionally, as stakeholders see
+the efficiency of the SMS, it is expected
+that the team would be re-contracted for
+expansion of the system to secondary
+schools across Guyana. It is also expected
+that discussions begin for further
+development of the project such as having
+an electronic scan-in system to record
+attendance of student and staff. Or a
+smart-selection system that would
+automatically identify students for
+extracurricular activities (e.g., literature
+and drama competitions, school debates
+etc.) through factors such as age, the
+extracurricular activities taken by the
+student, their grades in particular subject
+area, etc.
+
+
+Project Schedule & Gantt Chart
+Milestone Team Responsible Expected Time Period
+Phase 1 Planning, Public Relations, Project
+
+management, research
+
+1/Nov/2022 – 30/Nov/2022
+
+Phase 2 Project management,
+
+design, research
+
+Software 1/Dec/2022 – 30/Jan/2023
+
+Phase 3 Project management,
+
+design, research
+
+Software 01/Feb/2023 –
+20/Mar/2023
+
+Phase 4 Project management,
+
+design, research
+
+Software 01/Apr/2023-30/Jul/2023
+
+Phase 5 Project management,
+
+design, research
+
+Software 01/Aug/2023-08/Aug/2023
+
+Phase 6 Research, Project management,
+
+Software design
+
+10/Aug/2023 - 30/Aug/2023
+
+
+BREAKDOWN OF CONTRIBUTIONS
+Introduction Teddy Young
+Objectives Vickash Singh
+Project Organization Dyanand Ghandatt
+Constraints, Risk Analysis, Hardware and
+Software Requirements, Work Breakdown, Project
+Schedule & Gantt chart
+
+Cassie Beaton
+
+Corrections/Modifications to submission 1 Cassie Beaton
+
+APPENDIX
+Example of system adjustment in calculations to cater for a teacher who fails to enter a grade:
+If a student does 5 subjects, therefore their percentage is calculated as:
+total marks achieved for all subjects
+total possible marks × 100
+1
+And where the total possible marks would be 500 (100 for each subject).
+Now let us suppose that a subject teacher fails to enter a grade for this student by the given deadline, the
+system would then calculate that student’s percentage as:
+
+total marks achieved for all subjects
+400 × 100
+1
+
+To cater for the missing grade and to accurately reflect the student’s performance. Such an adjustment can
+be done at the database level. The students’ total marks achieved can be determined by a calculated field
+that sums all values entered in each of the subject-grade columns. The total possible marks can be done
+using a count function that counts only grade columns that are not null (so it will exclude subject with
+missing grades) and multiply the count result by 100. The percentage calculation would therefore not be
+affected by a missing grade but instead utilize only those tasks for which the student did receive a grade, to
+determine their performance report. This concept will be applied for both percentages received in individual
+subjects as well as in the over class.
+It is important to note that this adjustment will only be made if the student did not receive a grade and not
+if a zero grade was assigned. Therefore, the system shall be configured to enforce a difference between a
+zero and a NULL value in its calculations.
