@@ -1,0 +1,47 @@
+Group Members
+Timothy Paul 1040208
+Ezekiel Dublin 1040205
+Christopher Iles 1005991
+Dwight Joseph 1041019
+Roshawn Washington 1041609
+Aliyah Shaw 1040972
+
+Contribution Report: 
+Online collaboration was done using a google docs folder to allow members of the group the 
+aid in filling the table with information. Work was divided equally among the group, 
+allowing work to be completed in a timely manner. Communication was easy among 
+members of the group.
+
+System Testing:
+
+Test case ID TC_ED_1
+Test priority 
+(Low/Medium/High):
+High
+Test Title/Name: Edit data
+Test Summary/Description Allow users to edit student information.
+Pre-conditions User must have successfully logged in.
+Dependencies TC_AD_1
+Test Steps 1. Select Edit
+           2. Enter name/Id 
+           3. Select information
+           4. Change the information
+           5. Confirm Information change
+           
+Test Data ● Name: Alexander Hamilton
+          ● Address: 240 Washington drive
+          ● DoB: 01/11/1757
+          ● Grade: Maths A
+          ● Teacher: Alan Walker
+          ● Paret Name 1: Johnny Depth
+          ● Parent Nam2: Amber Heard
+          ● Emergency Contact: 6702842
+          
+Expected Results - Upon entering new information, it should display a form with all the new 
+and unchanged information confirming whether or not you want to 
+change the information. It should display an error message for any incorrect data types entered 
+saying please enter appropriate data along with an example of correct 
+data type e.g Please enter appropriate data (6702842).
+
+Post Condition -  Program should return to the home screen and data entered should be 
+saved
