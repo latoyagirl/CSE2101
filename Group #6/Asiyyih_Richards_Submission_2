@@ -1,0 +1,85 @@
+
+1. Introduction
+1.1 Purpose
+The functional and non-functional requirements for Submission 1 of the Canteen Management System project are described in this SRS. The functionality required by the user(s) was implemented and verified during the preparation of this document. Members of the project team working on this particular project may also refer to this document to obtain an understanding of how the system will operate. The canteen management system's goals, features, product scope, design, and implementation restrictions are all thoroughly explained in this document. This document also serves to explain how the system will manage food wastage and also keep an inventory for the canteen. 
+
+
+1.2 Intended Audience and Reading Suggestions
+This document’s intended audience include the administration of the school, the canteen attendant and lastly the computer installation and repair technician. The canteen management system's goals, features, product scope, design and implementation constraints , features of the system, safety and security requirements, performance requirements and business rules are all thoroughly explained in this document. It would be recommended to follow the sequence of reading:
+The purpose of the document
+The overall description gives an overview of the product which includes the functions of the product, its perspective, its characteristics, its constraints and also its assumptions and dependencies. 
+The features of the system 
+Other non-functional requirements 
+
+2. Overall Description
+2.1 Product Perspective
+The canteen management system project is intended to manage food wastage during inventory and planning, the foods/snacks can be reviewed, the items that the students dislike can be removed and replaced in the system by items that students will love or enjoy. The project also aims to keep an inventory for the canteen by keeping a computerized log of all items being purchased so the canteen attendant would be alerted when the canteen is falling short on items in the canteen and would be able to restock and if there is an overabundance he/she would be able to take the necessary actions. The canteen attendant would also make monthly reports about the system to the admin department on the automated system and its performance. 
+
+2.2 Product Functions
+The functions of the product are:
+Food ordered by student 
+The barcode scanner scans food ordered by students first. 
+Information is sent to the MarketMan software.
+Information on the food ordered is reviewed(price, along with how many more is in stock or if there is excess).
+Students receive their food.
+Information is recorded. 
+
+
+2.3 User Classes and Characteristics
+The canteen attendant scans the food using the barcode scanner, the information is recorded on MarketMan which does the report electronically. The canteen attendant then uses this automated report to do a monthly overview to report to the admin and also to the computer installation and repair  technician when he/she does routine checks to ensure the system is functioning as it should. 
+
+2.4 Design and Implementation Constraints 
+Constraints include:
+Might exceed estimated budget as the hardware and software requirements might be costly. Additionally, payments would need to be made to use the software(MarketMan) for the canteen. 
+The initial time frame set out might be longer than expected just to acquire the hardware required for the set up process. 
+Technical constraints would also be an issue because there might be a backlog of information if there’s a power outage, the canteen attendant(s) may have issues while getting accustomed to how to properly work or handle the barcode scanner which would cause some delay. Bar code scanners could also be damaged if not handled properly due to their low durability
+
+2.5 Assumptions and Dependencies
+The canteen will be open five days a week, once it’s a school day. The operation of the canteen management system all relies on the changes made in the inventory for the canteen which is automated and done by the MarketMan software. 
+
+3. System Features
+3.1.Description of functionality 1
+4.1.1 Description and Priority
+The feature would allow you to use a barcode scanner along with a keyboard for input, to input data or to make necessary changes. This feature would be medium as it is vital to the overall functionality of the system. 
+
+4.1.2 Stimulus/Response Sequences
+The monitor shall display what is being selected and input being made via keyboard to the system. 
+
+
+
+
+4.1.3 Functional Requirements 
+The canteen attendant shall scan the requested food using the barcode scanner and information will be sent to the system and lastly be sent to MarketMan software which then does the automated report on inventory along with if there is excess or needs to be restocked. 
+
+
+
+
+3.2 Description of functionality 2 
+ 
+
+
+4. Other Nonfunctional Requirements
+4.1 Performance Requirements
+Performance Requirement 1: The system shall ammodate around 250 students during the peak usage time window of 10:30am to 1:15pm local time.with an estimated average session duration of 8 minutes.
+Performance Requirement  2: The system shall display confirmation messages to users within the 4 second after it was scanned.
+Performance Requirement 3: When canteen attendants require a report to be printed within 10 seconds over  a 30 Kbps modem connection.
+
+
+
+4.2 Safety Requirements
+
+Safety requirement 1: All transactions that involves financial information shall be encrypted per BR-33
+Safety requirement 2: Users shall be allowed to hand the product to be scanned.
+
+4.3 Security Requirements
+Security requirement 1: Admin shall log in according to the restricted computer system access policy. 
+Security requirement 2: Only users who have been authorized for home access to the corporate Intranet shall use the canteen management system from any other  location other than the canteen. 
+
+
+4.4 Software Quality Attributes
+Availability: The canteen management system shall be available to usersIthe canteen attendants, the admin and technicians) on the corporate Intranet about 99% of the time between 7:30 am to 4:00 pm.  
+Maintainability: The canteen attendants shall be able to maintain the inventory via the software and the technicians would be able to do routine checks and maintain the software when logged in. 
+
+4.5 Business Rules
+
+An administrative staff should be doing routine checks on the canteen and its goods to ensure there are adequate and correct entries and usage and do reports. The computer technician should also do checks with canteen attendants to ensure they have a clear and concise understanding of how to use software and to offer training to them if there are updates. 
