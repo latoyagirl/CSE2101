@@ -1,0 +1,115 @@
+Project Plan
+Submission 1
+Canteen Managment System
+Group Members: Nerissa Hinds-1041904
+Joel Noel-1041303
+Darell lyght-1041940
+Renison Branch-1041672
+Asiyyih Richards-1038881
+Christiano Whyte
+Date of Submission: 27th October,2022- 12pm
+
+1.Introduction
+The Canteen Management System project is intended to:
+
+● Manage food wastage -during inventory and planning, the foods/snacks can be
+reviewed, the items that the students dislike can be removed and replaced in the system
+by items that students will love or enjoy.
+
+● Keep an inventory for the canteen- all items being purchased can be kept in a
+computerized system so subsequently you can monitor things you are falling short on
+and you will be notified to stock up on said things or when there’s overabundance to take
+the essential actions.
+However with limited resources available there might be some constraints such as:
+
+● We might have to go past our estimated budget as the hardware and software
+requirements might be costly. Additionally we would need to pay to use the
+software(MarketMan) for the canteen as the custom solution to the canteen managemnt
+system.
+
+● The initial time frame set out might be longer than expected just to acquire the hardware
+required for the set up process.
+
+● Technical constraints would also be an issue because there might be a backlog of
+information if there’s a power outage, the canteen attendan(s) may have issues while
+getting accustomed oh how to properly work or handle the barcode scanner which would
+cause some delay. Bar code scanners could also be damaged if not handled properly
+due to their low durability.
+
+2.Project Organization
+List of activities Roles/Responsbilities
+Purchasing of eqquipment Administration
+Installation of equipment Computer installation and repair technician
+Training of canteen attendant on how to use
+equipment
+Computer installation and repair technician
+Review/report on the functionality of the
+Canteen Management System
+Canteen Attendant
+
+3.Risk Analysis
+Risk Probability Effects
+
+Due to the environment the barcode labels could be damage
+causing the barcode scanner to not function
+Moderate Serious
+The institution wouldn't be able to fund the launch of the project
+due high cost of implementing barcode scanners
+High Catastrophic
+Guyana tends to experience a lot of power outage because of
+that the items wouldn’t have the opportunity to be scanned
+Moderate Tolerable
+Barcode scanners have low durability so it gets damaged easily
+causing the scanner to not work
+Low Tolerable
+The staff members would need to be trained on how to use the
+barcode scanner
+High Serious
+
+4. Hardware and software
+A point of sale system or P.O.S for short is a suitable software/hardware for the monitoriation of
+all the food regulations for the canteen, as it would help to regulate the food rotation thus
+eliminating wastage.
+
+Hardware- when it comes to hardware the suitable items would be; a hard drive ( this will help
+store all the data) that would have been collected and would allow easy access whenever they
+have to do an inventory check. A scanner would also be needed as it easier to scan goods more
+specifically ( goods that have bar codes) as it would help to ease the strain of manually
+documenting every product that was ordered. CPU and Monitor would also be needed as the
+cpu would process all the information that the scanner has collected and store it in the hard
+drive (note:the pc has to be able to run windows xp or higher) while the monitor would display
+the software that you will use to keep track of everything. A keyboard would also be need to
+inpu the data into the system.
+
+Software- the most common software that would be used is microsoft excel, as it is free (via
+online usage) and somewhat easy to use. However when you consider the scale of all the
+inventory you will have to track while also recording what is the best seller and what is the least,
+excel would be an inadequate tool to use and that is MarketMan would be the recommended
+software for this system as a custom solution to the canteen managemnt system and it help to
+track all the stocks that are available (thus if you are running low it will also notify you).
+MarketMan would also be able to provide the annual sale of a product i.e if the demand of the
+product is increasing or decreasing thus the staff would make the decision as to supply more of
+the product or discontinue the sale of it. To note,MarketMan much like other softwares requires
+a subscription to be used. Internet access is a requirement as the software requires the internet
+to make updates on inventory along with the windows system which would need to be updated
+periodically.
+
+5.Work Break down
+The project's goals would include keeping track of the most and least popular snacks and
+meals, as well as reducing food waste by serving and creating menu items that are sure to be
+popular. The canteen attendant would need to enter the list of purchased items into the
+database, track sales over time, and categorize items by least and most sold in order to reach
+the first milestone. Secondly, the canteen employee would make purchases based on sales and
+would compile a survey to be given to students to get their feedback on their preferred foods
+and snacks. An updated price list and an electronic lunch menu would be the deliverables to the
+students.
+
+6. Project Schedule
+
+References
+Sommerville, I. (2016) Software Engineering. 10th Edition, Pearson Education Limited, Boston.
+King,Mary(2021) 7 best Restaurant Inventory Managment Software for 2022.
+https://fitsmallbusiness.com/restaurant-inventory-management-software/
+Pontius,Nicole(2022) 4 Types of Inventory Control Systems: Perpetual Vs. Periodic Inventory
+Control and the Inventory Management Systems That Supports Them.
+https://www.camcode.com/blog/inventory-control-systems-types/#Barcode
